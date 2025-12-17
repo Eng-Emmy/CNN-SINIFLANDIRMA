@@ -8,9 +8,10 @@ UYGULAMA:Transfer Learning with Fine Tuning/ 1. PROJE
 Adınız: Emmanuel
 Soyadınız: HAKIRUWIZERA
 Okul Numaranız: 2440631002
-GitHub Repo Bağlantısı:https://github.com/Eng-Emmy/CNN-SINIFLANDIRMA
+GitHub Repo Bağlantısı: [https://github.com/Eng-Emmy/CNN-SINIFLANDIRMA1]
+
 GİRİŞ
-Bu proje, elma ve portakal sınıflarına ait özel bir veri kümesi kullanılarak görüntü sınıflandırması için Evrişimli Sinir Ağı (CNN) modellerinin oluşturulması ve değerlendirilmesine odaklanmaktadır. Toplamda 400 görüntü, özgünlük sağlamak amacıyla cep telefonu kamerası ile çekilmiştir. Veri kümesi,
+Bu proje, elma ve portakal sınılarına ait özel bir veri kümesi kullanılarak görüntü sınıflandırması için Evrişimli Sinir Ağı (CNN) modellerinin oluşturulması ve değerlendirilmesine odaklanmaktadır. Toplamda 400 görüntü, özgünlük sağlamak amacıyla cep telefonu kamerası ile çekilmiştir. Veri kümesi,
 
 320 görüntü (%80) → Eğitim 40 görüntü (%10) → Doğrulama 40 görüntü (%10) → Test olmak üzere üçe ayrılmıştır.
 
